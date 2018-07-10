@@ -12,11 +12,15 @@ This shortcut has a predefined list of public transport stops for Dresden. You s
 
 To adjust for your own stops edit the menu at the top and supply URL compatible names (I have no clue why the URLEncode action is of no help here) and a timeoffset of your choice (aka the time it takes to get to the stop - departures below that offset are not shown).
 
+https://twitter.com/kiliankoe/status/1016593506616463360
+
 
 
 ### Mensa
 
 This is a shortcut for accessing today's meals in Dresden's canteens. It uses [this API](https://github.com/htwdd/emeal-server). To configure for yourself adjust the listed canteens in the menu and take the IDs from [here](https://github.com/HTWDD/emeal-server/blob/master/Config/canteen.json).
+
+https://twitter.com/kiliankoe/status/1016594137540374528
 
 
 
